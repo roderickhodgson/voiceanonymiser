@@ -1,0 +1,6 @@
+Code I wrote for TADHack 2015. 
+
+Recorder: a java application that runs with a Dialogic XMS instance
+Voicechanger: a python script which uses a phase vocoder to anonymise a person's voice
+
+This was put together quickly. So is likely to be riddled with inefficiencies, errors, vulnerabilities and random commented-out code. Provided for academic interest only. DO NOT USE TO ANONYMISE: PHASE VOCODER CAN BE REVERSED!!!
